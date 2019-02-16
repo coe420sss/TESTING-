@@ -11,7 +11,12 @@ package coe420la2s2;
  */
 public class COE420LA2S2 {
 
-    public static void addFeatureA(){
+	public static void addFeatureB(){
+	    
+	    System.out.println("Feature B is added ");
+	    }
+	    
+	public static void addFeatureA(){
     
     System.out.println("Feature A is added ");
     }
@@ -22,6 +27,7 @@ public class COE420LA2S2 {
     public static void main(String[] args) {
         // TODO code application logic here
        addFeatureA(); 
+       addFeatureB();
     }
     
 }
