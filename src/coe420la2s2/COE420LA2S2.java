@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package coe420la2s2;
-fdnklf
 /**
  *
  * @author b00067791
